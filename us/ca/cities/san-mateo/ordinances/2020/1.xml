@@ -3,15 +3,35 @@
   <heading type="short">Private Sewer Lateral</heading>
   <heading type="long">Amending Section 7.38.432 Private Sewer Laterals to Require Inspection and Testing</heading>
   <meta>
-    <effective>2020-04-04</effective>
+    <effective>2020-03-04</effective>
     <citations>
       <citation type="ord" url="./adopted/2020-1.pdf">Ord. No. 2020-1</citation>
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-1</citation>
     </citations>
-    <history>
-      <introduced>2020-01-21</introduced>
-      <adopted>2020-02-03</adopted>
-    </history>
+    <introduced>2020-01-21</introduced>
+    <adopted>2020-02-03</adopted>
+
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:="https://open.law/ontologies/library">
+      <ordinance rdf:about="https://sanmateo.ca.us.open.law/_xml/us/ca/cities/san-mateo/ordinances/2020/1.xml">
+        <effective>2020-03-04</effective>
+        <introduced>2020-01-21</introduced>
+        <adopted>2020-02-03</adopted>
+        <citation>https://sanmateo.ca.us.open.law/_xml/us/ca/cities/san-mateo/ordinances/2020/1.xml#citations/Ord.%20No.%202020-1</citation>
+        <citation>https://sanmateo.ca.us.open.law/_xml/us/ca/cities/san-mateo/ordinances/2020/1.xml#citations/City%20of%20San%20Mateo%2C%20Cal.%2C%20Ord.%20No.%202020-1</citation>
+      </ordinance>
+      <!-- This is just trying to replicate what we have above, not what we want it to be -->
+      <citation rdf:about="https://sanmateo.ca.us.open.law/_xml/us/ca/cities/san-mateo/ordinances/2020/1.xml#citations/Ord.%20No.%202020-1">
+        <text>Ord. No. 2020-1</text>
+        <type>ord</type>
+        <url>./adopted/2020-1.pdf</url>
+      </citation>
+      <citation rdf:about="https://sanmateo.ca.us.open.law/_xml/us/ca/cities/san-mateo/ordinances/2020/1.xml#citations/City%20of%20San%20Mateo%2C%20Cal.%2C%20Ord.%20No.%202020-1">
+        <text>City of San Mateo, Cal., Ord. No. 2020-1</text>
+        <type>bb</type>
+      </citation>
+      <amends>https://open.law/_xml/us/ca/cities/san-mateo/code/7.xml#7.38.432</amends>
+      <amends>https://open.law/_docs/City%20of%20San%20Mateo%2C%20Cal.%2C%20Code/7.38.432</amends>
+    </rdf:RDF>
   </meta>
   <recitals>
     <recital>
