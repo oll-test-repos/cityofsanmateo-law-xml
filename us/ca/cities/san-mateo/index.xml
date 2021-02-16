@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection name="us/ca/cities/san-mateo" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache">
+  <heading>City of San Mateo</heading>
+  <xi:include href="./charter/index.xml"/>
+  <xi:include href="./code/index.xml"/>
+  <collection name="ordinances">
+    <heading>Ordinances</heading>
+    <xi:include href="./ordinances/2020/index.xml"/>
+    <xi:include href="./ordinances/2019/index.xml"/>
+    <xi:include href="./ordinances/2018/index.xml"/>
+    <xi:include href="./ordinances/2017/index.xml"/>
+    <xi:include href="./ordinances/2016/index.xml"/>
+    <xi:include href="./ordinances/2015/index.xml"/>
+    <xi:include href="./ordinances/2014/index.xml"/>
+    <xi:include href="./ordinances/2013/index.xml"/>
+    <xi:include href="./ordinances/2012/index.xml"/>
+    <xi:include href="./ordinances/2011/index.xml"/>
+    <xi:include href="./ordinances/2010/index.xml"/>
+  </collection>
+  <xi:include href="./drafting-manual/index.xml"/>
+</collection>
