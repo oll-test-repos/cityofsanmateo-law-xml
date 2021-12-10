@@ -18,7 +18,11 @@ on_finish:
 
 init:
   # exit if secure variables are unset (saves time if fired by a non-team pull request)
-  - ps: if ($env:GH_SSH_PRIVATE_KEY -eq $null) { exit }
+  - ps: >-
+      If ($env:GH_SSH_PRIVATE_KEY -eq $null) {
+        echo 'variable not set, stopping the build;'
+        exit;
+      };
 
   - git config --global user.name oll-bot
   - git config --global user.email developers@openlawlib.org
