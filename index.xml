@@ -43,6 +43,8 @@
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2010/index.xml"/>
   </collection>
   <xi:include href="./us/ca/cities/san-mateo/drafting-manual/index.xml"/>
-  <xi:include href="./us/ca/cities/san-mateo/editorial-actions/2025-06-05.xml"/>
-  <xi:include href="./us/ca/cities/san-mateo/editorial-actions/2026-02-03.xml"/>
+  <collection name="us/ca/cities/san-mateo/editorial-actions" display="false">
+    <xi:include href="./us/ca/cities/san-mateo/editorial-actions/2025-06-05.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/editorial-actions/2026-02-03.xml"/>
+  </collection>
 </library>
