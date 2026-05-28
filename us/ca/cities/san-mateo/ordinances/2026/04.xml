@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2026-04" codify:doc="City of San Mateo, Cal., Code">
   <num>2026-04</num>
   <heading type="short">Reach Codes for the 2025 Code Cycle — Ordinance Adoption</heading>
@@ -15,7 +16,11 @@
   </meta>
   <recitals>
     <recital>
-      <conjunction>WHEREAS,</conjunction>
+      <conjunction>WHEREAS,fff
+
+
+
+      </conjunction>
       <text>the City of San Mateo's (City) Climate Action Plan recommends the City review local amendments to the California Energy Code to promote building electrification and energy efficiency; and</text>
     </recital>
     <recital>
@@ -99,8 +104,8 @@
           <text>Energy Code subsection 150.2(b)1C is hereby amended to read:</text>
           <include>
             <para>
-            <num>C.</num>
-            <text><strong>Entirely new or complete replacement space-conditioning systems</strong> installed as part of an alteration, shall include all the system heating or cooling equipment, including but not limited to: condensing unit cooling or heating coil, and air handler for split systems; or complete replacement of a packaged unit; plus entirely new or replacement duct system (Section 150.2(b)1Diia). Entirely new or complete replacement space-conditioning systems shall meet the requirements of Sections 150.0(h), 150.0(i), 150.0(j)1, 150.0(j)2, 150.0(m)1 through 150.0(m)10; 150.0(m)12; 150.0(m)13, 150.1(c)7, 150.2(b)1G, and TABLE 150.2-A. Additionally, where an entirely new or complete replacement space conditioning system includes a new or replacement air-cooled air conditioner in Climate Zones 1 through 14 and 16, it shall meet the applicable requirements of Section 150.2(b)1Fiv. Where an entirely new or complete replacement space conditioning system includes a new or replacement heat pump, it shall meet the applicable requirements of Section 150.2(b)1Fv.</text>
+              <num>C.</num>
+              <text><strong>Entirely new or complete replacement space-conditioning systems</strong> installed as part of an alteration, shall include all the system heating or cooling equipment, including but not limited to: condensing unit cooling or heating coil, and air handler for split systems; or complete replacement of a packaged unit; plus entirely new or replacement duct system (Section 150.2(b)1Diia). Entirely new or complete replacement space-conditioning systems shall meet the requirements of Sections 150.0(h), 150.0(i), 150.0(j)1, 150.0(j)2, 150.0(m)1 through 150.0(m)10; 150.0(m)12; 150.0(m)13, 150.1(c)7, 150.2(b)1G, and TABLE 150.2-A. Additionally, where an entirely new or complete replacement space conditioning system includes a new or replacement air-cooled air conditioner in Climate Zones 1 through 14 and 16, it shall meet the applicable requirements of Section 150.2(b)1Fiv. Where an entirely new or complete replacement space conditioning system includes a new or replacement heat pump, it shall meet the applicable requirements of Section 150.2(b)1Fv.</text>
             </para>
           </include>
         </para>
@@ -631,14 +636,14 @@
                         </tr>
                         <tr>
                           <td>E4</td>
-                          <td >
+                          <td>
                             <p>R-49 Attic Insulation: Attic insulation shall be installed to achieve a weighted assembly U-factor of 0.020 or insulation installed at the ceiling level shall have a thermal resistance of R-49 or greater for the insulation alone. Recessed downlight luminaires in the ceiling shall be covered with insulation to the same depth as the rest of the ceiling. Luminaires not rated for insulation contact must be replaced or fitted with a fire-proof cover that allows for insulation to be installed directly over the cover.</p>
                             <p>Exception: In buildings where existing R-30 is present and existing recessed downlight luminaires are not rated for insulation contact, insulation is not required to be installed over the luminaires.</p>
                           </td>
                         </tr>
                         <tr>
                           <td>E5</td>
-                          <td >
+                          <td>
                             <p>Duct Sealing: Air seal all space conditioning ductwork to meet the requirements of the 2025 Title 24, Part 6, Section 150.2(b)1E. The duct system must be tested by a ECC Rater no more than three years prior to the Covered Single Family Project permit application date to verify the duct sealing and confirm that the requirements have been met. This measure may not be combined with the New Ducts and Duct Sealing measure in this Table.</p>
                             <p>Exception: Buildings without ductwork or where the ducts are in conditioned space.</p>
                           </td>
